@@ -1,0 +1,7 @@
+D:\PROGRAMING\JenkinsBasics\JenkinsConsole\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\PROGRAMING\JenkinsBasics\JenkinsConsole\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\PROGRAMING\JenkinsBasics\JenkinsConsole\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\PROGRAMING\JenkinsBasics\JenkinsConsole\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+D:\PROGRAMING\JenkinsBasics\JenkinsConsole\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\PROGRAMING\JenkinsBasics\JenkinsConsole\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\PROGRAMING\JenkinsBasics\JenkinsConsole\ConsoleApp\obj\Debug\ConsoleApp.pdb
