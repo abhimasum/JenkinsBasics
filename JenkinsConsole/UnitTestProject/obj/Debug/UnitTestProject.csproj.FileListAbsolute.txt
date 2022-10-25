@@ -16,3 +16,4 @@ D:\PROGRAMING\JenkinsBasics\JenkinsConsole\UnitTestProject\obj\Debug\UnitTestPro
 D:\PROGRAMING\JenkinsBasics\JenkinsConsole\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
 D:\PROGRAMING\JenkinsBasics\JenkinsConsole\UnitTestProject\obj\Debug\UnitTestProject.dll
 D:\PROGRAMING\JenkinsBasics\JenkinsConsole\UnitTestProject\obj\Debug\UnitTestProject.pdb
+D:\PROGRAMING\JenkinsBasics\JenkinsConsole\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.Common.dll
