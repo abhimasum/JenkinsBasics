@@ -21,5 +21,14 @@ namespace UnitTestProject
                 Assert.AreEqual(Expected, result);
             }
         }
+
+        [TestMethod]
+        public void TestMethod2()
+        {
+            
+               
+                Assert.AreEqual(1, 1);
+            
+        }
     }
 }
