@@ -27,7 +27,7 @@ namespace UnitTestProject
         {
             
                
-                Assert.AreEqual(1, 1);
+                Assert.AreEqual(1, 2);
             
         }
     }
