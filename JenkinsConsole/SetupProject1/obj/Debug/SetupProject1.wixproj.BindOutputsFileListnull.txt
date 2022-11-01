@@ -1,0 +1,2 @@
+D:\PROGRAMING\JenkinsBasics\JenkinsConsole\SetupProject1\bin\Debug\SetupProject1.msi
+D:\PROGRAMING\JenkinsBasics\JenkinsConsole\SetupProject1\bin\Debug\SetupProject1.wixpdb

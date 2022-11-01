@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+<Product Id="*" Name="HelloWix" Language="1033" Version="1.0.0.0" Manufacturer="SoftAgility" UpgradeCode="86FF38FA-12E7-4675-B0B0-3E6B8A5E4FAF" >
+	<Package Description="Simple Demo" Compressed="yes"/>
+	<MediaTemplate EmbedCab="yes"/>
+	<Directory Id="TARGETDIR" Name="SourceDir"	>
+		<Directory Id="ProgramFilesFolder">
+			<Directory Id="INSTALLFOLDER" Name="HelloWix"/>
+		</Directory>
+	</Directory>
+	<Component Id="TextFileComponent" Directory="INSTALLFOLDER">
+		<File Source="redist\foo.txt"></File>
+	</Component>
+	<Feature Id="MainFeature" Title="HelloWix" Level="1">
+		<ComponentRef Id="TextFileComponent"></ComponentRef>
+	</Feature>
+	
+</Product>
+</Wix>
