@@ -4,11 +4,12 @@ namespace ConsoleApp
 {
     public class Program
     {
+        int x = 0;
         public static void Main()
         {
-            int x=0;
+           
             Console.WriteLine("Hello World!");
-            x=100;
+            
 
         }
     }
